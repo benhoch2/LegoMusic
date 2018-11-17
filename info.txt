@@ -1,0 +1,1 @@
+scp benh@10.0.0.4:~/LegoMusic/client.py .;python client.py 
